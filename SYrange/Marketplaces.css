@@ -1,0 +1,11 @@
+div#gallery {
+    margin-top:15%;
+    margin-left: 20%;
+        float: left;
+    width: 1080px;
+
+  }
+  
+  .heroes:hover {
+    border: 1px solid #777;
+  }
